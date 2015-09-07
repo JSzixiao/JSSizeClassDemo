@@ -1,0 +1,2 @@
+# JSSizeClassDemo
+自动布局的Demo，该Demo实现了两种自动布局的方式，一种是纯碎在storyboard里面实现的，另外一种是代码实现的
